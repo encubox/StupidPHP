@@ -1,0 +1,13 @@
+body {
+	font-family: "Comic Sans MS";
+	color: pink;
+	background: black;
+}
+
+table {
+	border-collapse:collapse;
+}
+
+th, td{
+	border: 1px solid pink;
+}
